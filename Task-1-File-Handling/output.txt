@@ -1,0 +1,5 @@
+Hello Sakshi 
+Welcome to Alfido Tech Intership.
+Python File Handling Task
+
+ this line was added automatically.

@@ -1,0 +1,3 @@
+Hello Sakshi 
+Welcome to Alfido Tech Intership.
+Python File Handling Task
